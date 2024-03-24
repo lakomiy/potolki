@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Письмо с yugpotolkov.ru</title>
+</head>
+<body>
+{% csrf_token %}
+
+<p>Мое имя {{ context.name }} </p>
+<p>Телефон:</p><br>
+<a href="tel:{{ context.phone }}">{{ context.phone }}</a><br>
+<p>Email:</p><br>
+<a href="mailto:{{ context.email }}">{{ context.email }}</a><br>
+<p>Техническое задание</p><br>
+<p>{{ context.message }}</p>
+
+</body>
+</html>

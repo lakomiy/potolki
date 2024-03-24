@@ -1,0 +1,22 @@
+<svg id="zoom-in" xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <g id="Group_90" data-name="Group 90">
+    <g id="Group_89" data-name="Group 89">
+      <path id="Path_300" data-name="Path 300" d="M27.59,4.734A16.162,16.162,0,1,0,4.734,27.59,16.162,16.162,0,0,0,27.59,4.734ZM16.162,29.415A13.253,13.253,0,1,1,29.415,16.162,13.268,13.268,0,0,1,16.162,29.415Z" fill="#fbfaf6"/>
+    </g>
+  </g>
+  <g id="Group_92" data-name="Group 92" transform="translate(25.095 25.094)">
+    <g id="Group_91" data-name="Group 91">
+      <path id="Path_301" data-name="Path 301" d="M367.38,365.322l-8-8a1.454,1.454,0,0,0-2.057,2.057l8,8a1.454,1.454,0,1,0,2.057-2.057Z" transform="translate(-356.9 -356.899)" fill="#fbfaf6"/>
+    </g>
+  </g>
+  <g id="Group_94" data-name="Group 94" transform="translate(14.707 9.192)">
+    <g id="Group_93" data-name="Group 93">
+      <path id="Path_302" data-name="Path 302" d="M210.626,130.732a1.454,1.454,0,0,0-1.454,1.454v11.031a1.454,1.454,0,0,0,2.908,0V132.186A1.454,1.454,0,0,0,210.626,130.732Z" transform="translate(-209.172 -130.732)" fill="#fbfaf6"/>
+    </g>
+  </g>
+  <g id="Group_96" data-name="Group 96" transform="translate(9.192 14.707)">
+    <g id="Group_95" data-name="Group 95">
+      <path id="Path_303" data-name="Path 303" d="M143.217,209.172H132.186a1.454,1.454,0,1,0,0,2.908h11.031a1.454,1.454,0,1,0,0-2.908Z" transform="translate(-130.732 -209.172)" fill="#fbfaf6"/>
+    </g>
+  </g>
+</svg>
